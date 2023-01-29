@@ -35,7 +35,7 @@ public class AmazonHomePage {
     private WebElement searchBox;
 
     public void txtSendKeysMSI(){
-        searchBox.sendKeys("APPLEGİT"+ Keys.ENTER);
+        searchBox.sendKeys("APPLE"+ Keys.ENTER);
 
     }
 
