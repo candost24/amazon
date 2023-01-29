@@ -1,0 +1,1074 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jan 30 10:46:05 EET 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>4502</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:43</td>
+<td title="Message">Amazon sitesine gidiliyor</td>
+</tr>
+
+<tr>
+<td>8806</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:45</td>
+<td title="Message">Tittle doğrulanıyor</td>
+</tr>
+
+<tr>
+<td>9128</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:48</td>
+<td title="Message">Çerez kabul ediliyor</td>
+</tr>
+
+<tr>
+<td>10069</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:50</td>
+<td title="Message">Amazon sitesine login olmak için giriş yapa clickleniyor</td>
+</tr>
+
+<tr>
+<td>12205</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:53</td>
+<td title="Message">Amazon sitesine login olunuyor</td>
+</tr>
+
+<tr>
+<td>14523</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:56</td>
+<td title="Message">Login olma işlemi kontrol ediliyor</td>
+</tr>
+
+<tr>
+<td>18381</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:58</td>
+<td title="Message">Kategorilerden Bilgisayar seçiliyor</td>
+</tr>
+
+<tr>
+<td>18680</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:60</td>
+<td title="Message">Arama Kutusuna MSI gönderiliyor </td>
+</tr>
+
+<tr>
+<td>21556</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:63</td>
+<td title="Message">MSI arandığı kontrol ediliyor</td>
+</tr>
+
+<tr>
+<td>21967</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:65</td>
+<td title="Message">2. sayfaya gidiliyor</td>
+</tr>
+
+<tr>
+<td>23018</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:68</td>
+<td title="Message">2. sayfaya gidildiği kontrol ediliyor</td>
+</tr>
+
+<tr>
+<td>23076</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:70</td>
+<td title="Message">2. ürüne gidiliyor</td>
+</tr>
+
+<tr>
+<td>27690</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:73</td>
+<td title="Message">2. ürün favorilere ekleniyor</td>
+</tr>
+
+<tr>
+<td>31362</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/v3-html-index.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>31365</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-index_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>31372</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-index.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>31376</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/v3-html-index.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>31965</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/v3-html-head.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>31973</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-head_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>31989</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-head.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>31990</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/v3-html-head.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32036</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/v3-html-nav.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32038</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-nav_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32045</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-nav.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32046</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/v3-html-nav.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32108</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/test-view/v3-html-test-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32111</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32112</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32112</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/test-view/v3-html-test-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32137</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/test-view/v3-html-test-view-charts.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32138</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view-charts_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32171</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view-charts.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32172</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/test-view/v3-html-test-view-charts.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32203</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/test-view/v3-html-standard.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32204</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-standard_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32206</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-standard.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32206</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/test-view/v3-html-standard.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32268</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/category-view/v3-html-category-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32272</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/category-view/v3-html-category-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32273</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/category-view/v3-html-category-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32295</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/category-view/v3-html-category-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32328</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/exception-view/v3-html-exception-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32331</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/exception-view/v3-html-exception-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32332</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/exception-view/v3-html-exception-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32333</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/exception-view/v3-html-exception-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32351</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/author-view/v3-html-author-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32354</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/author-view/v3-html-author-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32355</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/author-view/v3-html-author-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32356</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/author-view/v3-html-author-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32382</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32384</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/dashboard-view/v3-html-dashboard-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32386</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32386</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>32424</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>32432</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/logs-view/v3-html-testrunner-logs-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>32444</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>32445</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jan 30 10:47:30 EET 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>5084</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:43</td>
+<td title="Message">Amazon sitesine gidiliyor</td>
+</tr>
+
+<tr>
+<td>8790</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:45</td>
+<td title="Message">Tittle doğrulanıyor</td>
+</tr>
+
+<tr>
+<td>8886</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:48</td>
+<td title="Message">Çerez kabul ediliyor</td>
+</tr>
+
+<tr>
+<td>9409</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:50</td>
+<td title="Message">Amazon sitesine login olmak için giriş yapa clickleniyor</td>
+</tr>
+
+<tr>
+<td>10824</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:53</td>
+<td title="Message">Amazon sitesine login olunuyor</td>
+</tr>
+
+<tr>
+<td>12607</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:56</td>
+<td title="Message">Login olma işlemi kontrol ediliyor</td>
+</tr>
+
+<tr>
+<td>16133</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:58</td>
+<td title="Message">Kategorilerden Bilgisayar seçiliyor</td>
+</tr>
+
+<tr>
+<td>16750</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:60</td>
+<td title="Message">Arama Kutusuna MSI gönderiliyor </td>
+</tr>
+
+<tr>
+<td>19676</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:63</td>
+<td title="Message">MSI arandığı kontrol ediliyor</td>
+</tr>
+
+<tr>
+<td>19919</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:65</td>
+<td title="Message">2. sayfaya gidiliyor</td>
+</tr>
+
+<tr>
+<td>20835</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:68</td>
+<td title="Message">2. sayfaya gidildiği kontrol ediliyor</td>
+</tr>
+
+<tr>
+<td>20924</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:70</td>
+<td title="Message">2. ürüne gidiliyor</td>
+</tr>
+
+<tr>
+<td>25322</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="test.AmazonTaskPOM category">test.AmazonTaskPOM</td>
+<td>AmazonTaskPOM.java:73</td>
+<td title="Message">2. ürün favorilere ekleniyor</td>
+</tr>
+
+<tr>
+<td>27990</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/v3-html-index.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>27996</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-index_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28001</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-index.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28004</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/v3-html-index.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28581</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/v3-html-head.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28584</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-head_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28585</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-head.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28586</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/v3-html-head.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28595</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/v3-html-nav.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28596</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-nav_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28598</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/v3-html-nav.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28598</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/v3-html-nav.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28658</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/test-view/v3-html-test-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28662</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28663</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28664</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/test-view/v3-html-test-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28703</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/test-view/v3-html-test-view-charts.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28705</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view-charts_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28711</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-test-view-charts.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28714</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/test-view/v3-html-test-view-charts.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28752</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/test-view/v3-html-standard.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28755</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-standard_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28756</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/test-view/v3-html-standard.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28757</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/test-view/v3-html-standard.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28816</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/category-view/v3-html-category-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28817</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/category-view/v3-html-category-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28855</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/category-view/v3-html-category-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28856</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/category-view/v3-html-category-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28865</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/exception-view/v3-html-exception-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28866</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/exception-view/v3-html-exception-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28867</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/exception-view/v3-html-exception-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28869</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/exception-view/v3-html-exception-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28878</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/author-view/v3-html-author-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28881</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/author-view/v3-html-author-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28885</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/author-view/v3-html-author-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28886</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/author-view/v3-html-author-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28897</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28899</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/dashboard-view/v3-html-dashboard-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28901</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28902</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl&quot;</td>
+</tr>
+
+<tr>
+<td>28944</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Couldn't find template in cache for &quot;v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed); will try to load it.</td>
+</tr>
+
+<tr>
+<td>28945</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/logs-view/v3-html-testrunner-logs-view_en.ftl&quot;): Not found</td>
+</tr>
+
+<tr>
+<td>28950</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">TemplateLoader.findTemplateSource(&quot;v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;): Found</td>
+</tr>
+
+<tr>
+<td>28950</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="freemarker.cache category">freemarker.cache</td>
+<td>_Log4jLoggerFactory.java:45</td>
+<td title="Message">Loading template for &quot;v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;(&quot;en&quot;, UTF-8, parsed) from &quot;jar:file:/C:/Users/hp/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl&quot;</td>
+</tr>
